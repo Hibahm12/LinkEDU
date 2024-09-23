@@ -1,6 +1,5 @@
 "# LinkEDU" 
 ![WhatsApp Image 2024-07-13 at 22 10 17](https://github.com/user-attachments/assets/e28754dd-0091-4cb3-8702-9188cd88cb51)
-![kanban](https://github.com/user-attachments/assets/892e3deb-79dc-480c-bb52-a1d995ade4fd)
 ![Screenshot 2024-07-15 155635](https://github.com/user-attachments/assets/85113964-dc39-4630-bd04-b037a7e99395)
 ![WhatsApp Image 2024-07-16 at 00 51 21](https://github.com/user-attachments/assets/1252827d-aa5e-41ef-a091-005b11806623)
 ![WhatsApp Image 2024-07-16 at 00 49 20](https://github.com/user-attachments/assets/6229a35d-221c-409c-9c80-e2a291cf9748)
