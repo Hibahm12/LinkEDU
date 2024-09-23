@@ -1,7 +1,12 @@
 "# LinkEDU" 
-![image](https://github.com/user-attachments/assets/e09aa014-7601-437c-8f23-fe53ffa8f4a8)
+![WhatsApp Image 2024-07-13 at 22 10 17](https://github.com/user-attachments/assets/e28754dd-0091-4cb3-8702-9188cd88cb51)
+![kanban](https://github.com/user-attachments/assets/892e3deb-79dc-480c-bb52-a1d995ade4fd)
+![Screenshot 2024-07-15 155635](https://github.com/user-attachments/assets/85113964-dc39-4630-bd04-b037a7e99395)
 ![WhatsApp Image 2024-07-16 at 00 51 21](https://github.com/user-attachments/assets/1252827d-aa5e-41ef-a091-005b11806623)
 ![WhatsApp Image 2024-07-16 at 00 49 20](https://github.com/user-attachments/assets/6229a35d-221c-409c-9c80-e2a291cf9748)
 ![WhatsApp Image 2024-07-16 at 00 51 01](https://github.com/user-attachments/assets/1251a8c4-7b14-459b-a613-355d17c67abf)
 ![WhatsApp Image 2024-07-16 at 00 54 37](https://github.com/user-attachments/assets/f19ecd5f-27b6-4508-bdbf-d845a93ecfb4)
 ![WhatsApp Image 2024-07-16 at 00 50 13](https://github.com/user-attachments/assets/d1ef339e-824b-44b8-9037-a0a3644dc6ad)
+![WhatsApp Image 2024-07-16 at 13 15 19](https://github.com/user-attachments/assets/d3ce97ab-a36c-45df-a18e-7f02ca4a6200)
+![WhatsApp Image 2024-07-16 at 13 15 44](https://github.com/user-attachments/assets/159f408a-4828-4304-81a3-61f85a4fd2f7)
+![WhatsApp Image 2024-07-16 at 13 16 10](https://github.com/user-attachments/assets/38219e28-a1cc-4789-a8e4-d31c67fb0cc1)
