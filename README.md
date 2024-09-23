@@ -1,4 +1,6 @@
 "# LinkEDU" 
+![dashboard](https://github.com/user-attachments/assets/677706b3-b872-4757-b2c0-5cb09a6ca27a)
+
 ![WhatsApp Image 2024-07-16 at 00 51 21](https://github.com/user-attachments/assets/1252827d-aa5e-41ef-a091-005b11806623)
 
 ![WhatsApp Image 2024-07-16 at 00 49 20](https://github.com/user-attachments/assets/6229a35d-221c-409c-9c80-e2a291cf9748)
