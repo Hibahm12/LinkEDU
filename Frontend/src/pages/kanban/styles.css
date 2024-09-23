@@ -1,0 +1,51 @@
+/* styles.css */
+.kanban-background {
+    background-image: url('../../assets/time.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    padding: 20px;
+  }
+  /* KanbanBoard.css */
+.kanban-column {
+  background-color: #ffffffcc; /* Slightly transparent white */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  margin: 16px;
+}
+
+.kanban-column-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.kanban-task {
+  background-color: #ffffff;
+  border-radius: 4px;
+  padding: 12px;
+  margin-bottom: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.kanban-task-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.kanban-avatar {
+  background-color: #1976d2; /* Primary color */
+  color: #ffffff;
+}
+
+.kanban-add-task-button {
+  margin-top: 16px;
+  background-color: #1976d2; /* Primary color */
+  color: #ffffff;
+}
+
+.kanban-delete-button {
+  color: #f44336; /* Error color */
+}

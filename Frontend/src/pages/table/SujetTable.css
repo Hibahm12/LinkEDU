@@ -1,0 +1,25 @@
+.paper {
+  margin: 20px;
+  box-shadow: 0px 4px 20px rgba(0,0,0,0.1); /* soft shadow for a lifted paper effect */
+  transform: translateZ(0); /* GPU acceleration for smoother shadows */
+}
+
+.tableRow {
+  transition: transform 0.3s ease;
+}
+
+.tableRow:hover {
+  transform: translateY(-3px); /* subtle lift effect on hover */
+  box-shadow: 0px 5px 15px rgba(0,0,0,0.15);
+}
+
+.button {
+  margin: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
