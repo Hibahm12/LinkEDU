@@ -34,11 +34,13 @@
     "gsap": "^3.12.5",
     "history": "^5.3.0",
     "is-extglob": "^2.1.1",
+    "laravel-echo": "^1.16.1",
     "lodash": "^4.17.21",
-    "lodash.pick": "^4.4.0",
+    "lodash.pick": "^3.1.0",
     "notistack": "^3.0.1",
     "numeral": "^2.0.6",
     "prop-types": "^15.8.1",
+    "pusher-js": "^8.4.0-rc2",
     "react": "^18.2.0",
     "react-apexcharts": "^1.4.1",
     "react-beautiful-dnd": "^13.1.1",
@@ -50,9 +52,7 @@
     "react-toastify": "^10.0.5",
     "simplebar-react": "^3.2.4",
     "swiper": "^11.1.4",
-    "zustand": "^4.5.4",
-    "laravel-echo": "^1.16.1",
-    "pusher-js": "^8.4.0-rc2"
+    "zustand": "^4.5.4"
   },
   "devDependencies": {
     "@vitejs/plugin-react-swc": "^3.4.0",
